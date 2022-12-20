@@ -75,10 +75,3 @@
 .toutiao-fenxiang:before {
   content: "\e607";
 }
-.van-nav-bar {
-  background-color: #3196fa;
-}
-.van-nav-bar .van-nav-bar__title,
-.van-nav-bar .van-icon {
-  color: #fff;
-}
